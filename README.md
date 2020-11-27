@@ -7,20 +7,20 @@ This Project seeks to analyze Autolib Dataset to Identify the most popular hour 
 This project was undertaken as part of an assessemnt for a Data Science Course
 
 ## Summary Guideline of Topics covered in analysis
-*Importing Python Libraries
-*Loading Dataset
-*Accessing Information about the dataset
-*Cleaning the dataset
-*Exporting the dataset
-*Analysis: Bluecar
-*Analysis: Utilib Counter
-*Analysis: Utilib 1.4 Counter
-*Conclusion
+1. Importing Python Libraries
+2. Loading Dataset
+3. Accessing Information about the dataset
+4. Cleaning the dataset
+5. Exporting the dataset
+6. Analysis: Bluecar
+7. Analysis: Utilib Counter
+8. Analysis: Utilib 1.4 Counter
+9. Conclusion
 
 ## Technologies and Softwares Used
-*Python 3
-*Google Colab
-*Jupyter Notebook
+1. Python 3
+2. Google Colab
+3. Jupyter Notebook
 
 ## Setup
 The easiest way to run this code is to upload and run it on google colab.
